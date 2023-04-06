@@ -7,6 +7,6 @@
 # 문제집
 | 번호 | 주제 | 문제집 링크 |
 | :--: | :--: | :--: |
-| 0x00 | Stack | [stack 문제모음](https://www.acmicpc.net/workbook/view/7312) |
-| 0x01 | BFS | bfs 문제모음 |
+| 0x00 | [Stack](./0x00) | [stack 문제모음](https://www.acmicpc.net/workbook/view/7312) |
+| 0x01 | [BFS](./0x01) | [bfs 문제모음](https://www.acmicpc.net/workbook/view/7313) |
 

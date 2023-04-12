@@ -9,4 +9,4 @@
 | :--: | :--: | :--: |
 | 0x00 | [Stack](./0x00) | [stack 문제모음](https://www.acmicpc.net/workbook/view/7312) |
 | 0x01 | [BFS](./0x01) | [bfs 문제모음](https://www.acmicpc.net/workbook/view/7313) |
-
+| 0x02 | [시뮬레이션](./0x02) | [시뮬레이션 문제모음](https://www.acmicpc.net/workbook/view/7316)
